@@ -4,7 +4,7 @@ from tkinter.ttk import Frame
 import openai
 import sql
 
-openai.api_key = "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"
+openai.api_key = "<API-KEY>"
 
 
 class MainView:
